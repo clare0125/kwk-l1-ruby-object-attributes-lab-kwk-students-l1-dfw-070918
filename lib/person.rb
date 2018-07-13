@@ -16,4 +16,5 @@ class Person
   
   def job=(n_job)
     @job = job
+  end
 end
