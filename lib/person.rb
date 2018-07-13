@@ -6,7 +6,7 @@ class Person
     name = @name
   end
   
-  def name=(n_name)
+  def name=(name)
     @name = name
   end
   
@@ -14,7 +14,7 @@ class Person
     job = @job
   end
   
-  def job=(n_job)
+  def job=(job)
     @job = job
   end
 end
